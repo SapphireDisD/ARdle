@@ -30,7 +30,7 @@ function App() {
 
   return (
     <div className="game">
-    <Typography variant="h4" mb={3}>ARdle - Custom wordle</Typography>
+    <Typography variant="h4" mb={3}>ARdle - Custom Wordle</Typography>
       <Stack spacing={1} mb={3} sx={{
         display: 'inline-flex'
       }}>
